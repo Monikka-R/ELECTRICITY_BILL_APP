@@ -55,8 +55,7 @@ This project aims to reduce manual effort and improve accessibility by offering 
 
 🔗 Future Improvements
 
-🚀 Online Bill Payment Integration
-🚀 Push Notifications for Due Dates
+
 🚀 Monthly Usage Analytics & Graphs
 🚀 User Profile Management
 🚀 Dark Mode Support
@@ -90,14 +89,7 @@ Prerequisites
 
 Run Commands
 
-flutter pub get
 flutter run
-
----
-
-📸 Screenshots
-
-(Add screenshots of your app here for better presentation)
 
 ---
 
@@ -117,14 +109,3 @@ This project demonstrates a practical implementation of a digital electricity bi
 
 ---
 
-🏆 Project Type
-
-Hackathon / Academic Project
-
----
-
-👩‍💻 Developed By
-
-Monikka Rajavel
-
----
